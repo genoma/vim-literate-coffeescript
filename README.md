@@ -8,10 +8,7 @@ It looks something like this:
 
 # Dependencies
 
-You must have syntax highlighting installed for both
-[Markdown](https://github.com/tpope/vim-markdown) and
-[CoffeeScript](https://github.com/kchmck/vim-coffee-script) installed to use
-this package.
+You must have syntax highlighting installed for [CoffeeScript](https://github.com/kchmck/vim-coffee-script) installed to use this package.
 
 # Installation
 
